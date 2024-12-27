@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "47cfc66ca13703bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec4c632c6acfc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd1b055857f7fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/custom-develop/u9-api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a869b440e9df2342",
+    "type": "split",
+    "children": [
+      {
+        "id": "79af522d82bd9585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1b25b58a38f00d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b1a2200840607a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e04cbe7b8f755495",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "792a03d18d0ca51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea4258bb64f5e3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb19fcf100366f25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/custom-develop/u9-api.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c328517e13ec5044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/custom-develop/u9-api.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "985a0273965498cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b16dd2afcc73533",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/custom-develop/u9-api.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "acd1b055857f7fde",
+  "lastOpenFiles": [
+    "Pasted image 20241226184628.png",
+    "docs/custom-develop/u9-plugin.md",
+    "docs/custom-develop/u9-reuse-code.md",
+    "docs/custom-develop/u9-report.md",
+    "docs/custom-develop/u9-env.md",
+    "docs/blogs/index.md"
+  ]
+}

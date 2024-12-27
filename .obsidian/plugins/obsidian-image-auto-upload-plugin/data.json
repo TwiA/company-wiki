@@ -1,0 +1,31 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "",
+  "picgoCorePath": "",
+  "workOnNetWork": false,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "imageDesc": "origin",
+  "remoteServerMode": false,
+  "uploadedImages": [
+    {
+      "isEncrypted": 1,
+      "EncryptedData": "ec71ad264182656b1d8fbf1ce35d6620:1520d289bcda03d8a803e08ff0619d26d9e5cfcea71a781f5146989445c066bc08aa27599f7d55eff75b8602ef7e72fdfb7c82d671d40865be3747121ccd9d375f084edb3e08a52d101cc30f973394a70e784b544a8af2830d5866d5821b4ca2bd1bb04657a865170c72ac3350b359d7abfd7f4acd84d9936dc600c9693505ef465e3172bd99e0acda6bb4d5d0fe02d6121248711aa992b0725e0bc8fd7a0e8ae4f01257805ba92c6e0b808ed220402e3a9bc719dc5f9c1055675fb062bf7696683296b6610302e712de6572f3c80067910ce28bac13fd2af0d30e4840589d72c099753c3f3252246650c1900ea7b31e63d9ac1f5241d55ce87ce3e9bd5d84e242fd50b2c19b9d3de2f3f95b14664d8a2949ea8e31875bc84b6c4ac77afc22ac9b36748b0a8417ae23f424aa5447158e9616040d6eac11bb6a76d8ecec65b865cf04058300fd81b2a5593ca35e5365070a955cc4dc83a6659b33e4e2274de3baca199f5084688870010525af3c2de059174355c81dd22eabad65b4d5e4eca470464e5cc730ff5dd7c3b5ae30377fd617f3cda6ea25ebaae86babbef45ca64488e5d4d858a9fa009ec11b3aaab0df0e835c8c068047651afd61fed537edcef8ae6a0389d8ccfabd2e3f37624934765d411b5be0b44f00eb1dd5f4be0c1b095f58e76884c12152e2475068eb5efc9e7d6d54e0bdde896820e734594c1e39fb974a272bd1550e9d7b7cbf9c0351186d88447524cdb0bde841c7625e86e16b5d8036e11e6c5d0f96d4cd658588ac4a6797ae1358a7eec14663ba3eeacd033ce68419",
+      "fileName": "202412261849997.png",
+      "width": 674,
+      "height": 609,
+      "extname": ".png",
+      "imgUrl": "https://gitee.com/twi/pic-bed/raw/master/img/202412261849997.png",
+      "sha": "c4b008fd27afee2ba11b80a249395a0b96317758",
+      "type": "gitee",
+      "id": "4fd69bee-c092-4584-99ac-16e88734e27c",
+      "createdAt": 1735210160576,
+      "updatedAt": 1735210160576
+    }
+  ]
+}
