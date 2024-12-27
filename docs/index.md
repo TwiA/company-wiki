@@ -1,11 +1,11 @@
 ---
-title: A static site based on dumi
+title: 惠州一点互联科技有限公司荣誉出品开发知识库
 hero:
-  title: Site
-  description: A static site based on dumi
+  title: 开发知识库
+  description: 惠州一点互联科技有限公司荣誉出品
   actions:
-    - text: Hello
-      link: /
+    - text: 快速上手
+      link: /guide
     - text: World
       link: /
 features:
